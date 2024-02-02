@@ -1,12 +1,13 @@
-STARTING
+**STARTING**
 
 
 Go on your terminal create a folder "WeatherApp" for example, then run the following command git clone https://github.com/OliverMunian/WeatherApp_frontend.git 
 
-FOLDER
+**INSIDE THE FOLDER**
 
-Go inside the folder "frontend" and open "Login.html". To see how the project run you need to clone the other pat of the projet "WeatherApp_backend" that you can find on my repositories
+Go inside the folder "frontend" and open "Login.html". To see how the project run,  you need to clone the other part of the projet "WeatherApp_backend" that you can find on my repositories
 
+**OPEN YOUR TERMINAL**
 
 Go back on you terminal, go inside your folder "WeatherApp" and run the following command git clone https://github.com/OliverMunian/WeatherApp_Backend.git to clone the backend.
 
